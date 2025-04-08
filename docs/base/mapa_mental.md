@@ -21,12 +21,12 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ### Mapa mental 1
  
-[![Mapa mental Entrevista](../assets/Mapas_mentais/....png)](../assets/Mapas_mentais/...png)
+[![Mapa mental Entrevista](../assets/Mapas_mentais/mapa_mental.png)](../assets/Mapas_mentais/mapa_mental.png)
  
  
 ### Mapa mental 2
  
-[![Mapa mental Brainstorm](../assets/Mapas_mentais/...png)](assets/Mapas_mentais/....png)
+[![Mapa mental Brainstorm](../assets/Mapas_mentais/mapa_mental.png)](assets/Mapas_mentais/mapa_mental.png)
  
 ## Conclusão
  
@@ -35,14 +35,14 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 </p>
  
 ## Referências
-> Mapa MentalXXX,  Disponível em: https://www.....
+> Mapa MentalXXX,  Disponível em: https://mapify.so/pt
  
-> Ferramentas para Mapas Mentais. Disponível em: https://www....
+> Ferramentas para Mapas Mentais. Disponível em: https://mapify.so/pt
  
-> Plataforma para usuários colaborar no desenho... Disponível em: https://...
+> Plataforma para usuários colaborar no desenho... Disponível em: https://mapify.so/pt
  
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
-| dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
+| dd/mm/yy | 1.0 | Criação do documento | Giovanni Gonçalves Villela |
+| dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | Giovanni Gonçalves Villela |
