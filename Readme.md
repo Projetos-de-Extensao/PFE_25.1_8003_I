@@ -35,6 +35,7 @@ A inspiração baseia-se em plataformas como **ingresso.com**, mas com um foco v
 - VSCode instalado
 
 ### Comandos
+<<<<<<< HEAD
 
 ```bash
 # Clone o repositório
@@ -49,3 +50,12 @@ npm install
 # Inicie o servidor de desenvolvimento
 npm start
 
+=======
+
+
+# Clone o repositório
+git clone https://github.com/seuusuario/2025.1_RPG_ProjetoGipera.git
+
+# Acesse a pasta do projeto
+cd 2025.1_RPG_ProjetoGipera
+>>>>>>> dc463638d5bb2f3e0133d0e97345b56987610ec3
