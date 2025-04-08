@@ -35,25 +35,32 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
 
 |Nome | Papel |
 -----|------|
-|xxxx Pedro| Entrevistador|
-|xxxx xxxx| Entrevistado|
+|Pedro Samary| Entrevistador|
+|Yuhry Mattei| Entrevistado|
 
 <br>
 <br>
 
 |Data|Horário de inicio|Horário de fim |Descrição
 ----|-----|-----|---------|
-|03/09/20 | 12:11| 12:38 | Entrevista realizada via hangouts.|
+|03/04/2025 | 12:11| 12:38 | Entrevista realizada via chamada de vídeo.|
 
 <br>
 <br>
  
 |Nome do participante|Diálogo durante a apresentação dos projetos|
 |----|-------------|
-|XXX XXXX:|Você... |
-|XXX XXXX:|Sim.... |
-|XXX XXXX:|Como... |
-|XXXX XXXX:|Já...  |
+|Pedro Samary:|Você já participou da organização de eventos antes?|
+|Yuhry Mattei:|Sim, já organizei alguns eventos acadêmicos e culturais.|
+|Pedro Samary:|Você já usou alguma aplicação para isso?|
+|Yuhry Mattei:|Já tentei usar uma ou duas, mas achei meio confusas.|
+|Pedro Samary:|Se tivesse uma plataforma que te desse controle e informações claras sobre os participantes e envio de lembretes, você usaria?|
+|Yuhry Mattei:|Com certeza! Isso ajudaria bastante na gestão.|
+|Pedro Samary:|E sobre exportar presença e gerar certificados automaticamente, acha útil?|
+|Yuhry Mattei:|Muito. Isso economizaria muito tempo.|
+|Pedro Samary:|Você gostaria de poder se cadastrar como organizador e ter um painel só seu?|
+|Yuhry Mattei:|Sim, principalmente se eu puder ver dados analíticos do evento.|
+|Pedro Samary:|Ótimo, obrigado!|
 
 <br>
  
@@ -61,16 +68,16 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
  
 |ID|Descrição|
 |----|-------------|
-|REQ01|O ...|
-|REQ02|O ...|
-|REQ03|O ...|
-|REQ04|O ...|
-|REQ05|O ...|
-|REQ06|O ...|
-|REQ07|O ...|
-|REQ08|O ...|
-|REQ09|O ...|
-|REQ10|O ...|
+|REQ01|Cadastro de organizadores com e-mail e senha|
+|REQ02|Painel de controle para organizadores|
+|REQ03|Envio automático de lembretes por e-mail|
+|REQ04|Exportação de lista de presença|
+|REQ05|Geração automática de certificados|
+|REQ06|Plataforma acessível e de fácil navegação|
+|REQ07|Dados analíticos sobre eventos|
+|REQ08|Cadastro de eventos com informações completas|
+|REQ09|Suporte a eventos acadêmicos e culturais|
+|REQ10|Possibilidade de personalização do evento na página pública|
 
 
 ## Conclusão
@@ -87,6 +94,7 @@ Através da aplicação da técnica, foi possível elicitar alguns requisitos im
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | xxx XXXX |
-| DD/MM/YYYY | 2.0 | Adição da entrevista 1 | XXX XXXX | 
-| DD/MM/YYYY | 2.1 | Adição dos requisitos elicitados e conclusão | XXXX XXXXX | 
+| 08/04/2025 | 1.0 | Criação do documento | Giovanni Villela |
+| 08/04/2025 | 2.0 | Adição da entrevista 1 | Giovanni Villela | 
+| 08/04/2025 | 2.1 | Adição dos requisitos elicitados e conclusão | Giovanni Villela |
+
